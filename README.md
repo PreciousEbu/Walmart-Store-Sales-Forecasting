@@ -123,4 +123,4 @@ An interactive Plotly dashboard was created to visualize:
 **Precious Ebu**  
 Data Scientist | Python | Machine Learning | Forecasting  
 LinkedIn: (https://www.linkedin.com/in/precious-ebu) 
-Portfolio: [[Add Link]](https://github.com/PreciousEbu)
+Portfolio:(https://github.com/PreciousEbu)
